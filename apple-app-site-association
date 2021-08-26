@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "XJZXQZAKD4.com.DeepLink.deep",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
