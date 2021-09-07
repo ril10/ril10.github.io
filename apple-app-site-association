@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "XJZXQZAKD4.com.DeepLink.deep",
-                "paths": ["/id"]
+                "appID": "XJZXQZAKD4.com.Luk.petsapp.ios",
+                "paths": ["/animal?id"]
             }
         ]
     }
