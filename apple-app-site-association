@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "XJZXQZAKD4.com.nelsongonzale.Universal-Link-SwiftUI2-0",
-                "paths": ["*"]
+                "paths": ["/id"]
             }
         ]
     }
