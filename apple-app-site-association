@@ -7,10 +7,12 @@
 	"components": [
                {
                   "/": "/time-off/subordinate-requests/*",
+		  "?": {"timeoff": "?*" },
                   "comment": "Matches any URL with subordinate request"
                },
 		{
                   "/": "/time-off/planned-vacations/*",
+                  "?": {"timeoff": "?[0-9]" },
                   "comment": "Matches any URL with planned vacations"
                }
              ]
