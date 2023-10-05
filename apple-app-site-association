@@ -3,7 +3,10 @@
       "apps": [],
       "details": [
       {
-    "appIDs": [ "2N9TTRBD8V.com.innowise.itsMobile.develop", "2D9U42FW3T.com.innowise.itsMobile.develop", "V9WX94952D.com.innowise.itsMobile.develop"],
+    "appIDs": 
+["2N9TTRBD8V.com.innowise.itsMobile.develop",
+"2D9U42FW3T.com.innowise.itsMobile.develop", 
+"V9WX94952D.com.innowise.itsMobile.develop"],
     "components": [
                {
                   "/": "/time-off/subordinate-requests",
