@@ -1,20 +1,20 @@
 {
-  "applinks": {
-      "apps": [],
-      "details": [
+  'applinks': {
+      'apps': [],
+      'details': [
       {
-    "appIDs": 
-["2N9TTRBD8V.com.innowise.itsMobile.develop",
-"2D9U42FW3T.com.innowise.itsMobile.develop", 
-"V9WX94952D.com.innowise.itsMobile.develop"],
-    "components": [
+    'appIDs': 
+['2N9TTRBD8V.com.innowise.itsMobile.develop',
+'2D9U42FW3T.com.innowise.itsMobile.develop', 
+'V9WX94952D.com.innowise.itsMobile.develop'],
+    'components': [
                {
-                  "/": "/time-off/subordinate-requests",
-                  "comment": "Matches any URL with subordinate request"
+                  '/': '/time-off/subordinate-requests',
+                  'comment': 'Matches any URL with subordinate request'
                },
         {
-                  "/": "/time-off/planned-vacations",
-                  "comment": "Matches any URL with planned vacations"
+                  '/': '/time-off/planned-vacations',
+                  'comment': 'Matches any URL with planned vacations'
                }
              ]
       }
